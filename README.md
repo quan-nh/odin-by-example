@@ -10,3 +10,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [If/Else](if-else.odin)
 - [Switch](switch.odin)
 - [Arrays](arrays.odin)
+- [Slices](slices.odin)
