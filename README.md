@@ -11,3 +11,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Switch](switch.odin)
 - [Arrays](arrays.odin)
 - [Slices](slices.odin)
+- [Maps](maps.odin)
