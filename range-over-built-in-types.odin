@@ -28,6 +28,7 @@ main :: proc() {
 		"b" = "banana",
 	}
 	defer delete(kvs)
+
 	for k, v in kvs {
 		fmt.printf("%s -> %s\n", k, v)
 	}

@@ -3,6 +3,9 @@ package main
 import "core:fmt"
 import "core:time"
 
+/*
+Switch statements express conditionals across many branches.
+*/
 main :: proc() {
 	// Here’s a basic switch.
 	i := 2
