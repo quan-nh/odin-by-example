@@ -6,3 +6,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Values](values.odin)
 - [Variables](variables.odin)
 - [Constants](constants.odin)
+- [For](for.odin)
