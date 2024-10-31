@@ -8,3 +8,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Constants](constants.odin)
 - [For](for.odin)
 - [If/Else](if-else.odin)
+- [Switch](switch.odin)
