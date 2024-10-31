@@ -15,3 +15,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Procedures](procedures.odin)
 - [Multiple Return Values](multiple-return-values.odin)
 - [Variadic Procedures](variadic-procedures.odin)
+- [Closures](closures.odin)
