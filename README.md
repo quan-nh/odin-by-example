@@ -13,3 +13,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Slices](slices.odin)
 - [Maps](maps.odin)
 - [Procedures](procedures.odin)
+- [Multiple Return Values](multiple-return-values.odin)
