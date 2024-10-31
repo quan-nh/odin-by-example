@@ -11,6 +11,7 @@ fact :: proc(n: int) -> int {
 	}
 	return n * fact(n - 1)
 }
+
 main :: proc() {
 	fmt.println(fact(7)) // 5040
 }
