@@ -20,3 +20,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Range over Built-in Types](range-over-built-in-types.odin)
 - [Pointers](pointers.odin)
 - [Strings and Runes](strings-and-runes.odin)
+- [Structs](structs.odin)
