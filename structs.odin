@@ -13,7 +13,7 @@ person :: struct {
 
 // newPerson constructs a new person struct with the given name.
 newPerson :: proc(name: string) -> ^person {
-	p := new(person) // // allocates memory and returns a pointer
+	p := new(person) // allocates memory and returns a pointer
 	p.name = name
 	p.age = 42
 	return p
