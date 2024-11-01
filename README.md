@@ -23,3 +23,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Structs](structs.odin)
 - [Enums](enums.odin)
 - [Struct Embedding](struct-embedding.odin)
+- [Generics](generics.odin)
