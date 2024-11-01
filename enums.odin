@@ -52,9 +52,9 @@ main :: proc() {
 		B,
 		C,
 	}]int
+
 	arr = #partial {
 		.A = 42,
 	}
 	fmt.println(arr) // [.A = 42, .B = 0, .C = 0]
-
 }

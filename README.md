@@ -22,3 +22,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Strings and Runes](strings-and-runes.odin)
 - [Structs](structs.odin)
 - [Enums](enums.odin)
+- [Struct Embedding](struct-embedding.odin)
