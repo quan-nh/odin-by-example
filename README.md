@@ -26,3 +26,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Generics](generics.odin)
 - [Errors](errors.odin)
 - [Sorting](sorting.odin)
+- [Sorting by Functions](sorting-by-functions.odin)
