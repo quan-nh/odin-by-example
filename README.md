@@ -28,3 +28,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Sorting](sorting.odin)
 - [Sorting by Functions](sorting-by-functions.odin)
 - [Panic](panic.odin)
+- [Defer](defer.odin)
