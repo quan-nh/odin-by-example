@@ -36,3 +36,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Xml](xml.odin)
 - [Time](time.odin)
 - [Epoch](epoch.odin)
+- [Time Formatting Parsing](time-formatting-parsing.odin)
