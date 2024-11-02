@@ -31,3 +31,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Defer](defer.odin)
 - [String Functions](string-functions.odin)
 - [String Formatting](string-formatting.odin)
+- [Regular Expressions](regular-expressions.odin)
