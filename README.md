@@ -34,3 +34,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Regular Expressions](regular-expressions.odin)
 - [Json](json.odin)
 - [Xml](xml.odin)
+- [Time](time.odin)
