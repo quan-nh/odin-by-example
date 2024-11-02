@@ -32,3 +32,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [String Functions](string-functions.odin)
 - [String Formatting](string-formatting.odin)
 - [Regular Expressions](regular-expressions.odin)
+- [Json](json.odin)
