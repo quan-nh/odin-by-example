@@ -15,7 +15,7 @@ x, err := foo();
 
 switch e in err {
 case ValueError:
-	// Handle error
+	 // Handle error
 case BarError:
 	// Handle error
 case BazError, PlopError:

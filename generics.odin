@@ -27,7 +27,7 @@ make_random_sized_slice :: proc($T: typeid, max_size: int) -> []T {
 
 // Similarly, we also put in $N: int, which gives us a compile-time value to use for the size of the items array.
 Special_Array :: struct($T: typeid, $N: int) {
-	items: [N]T,
+	items:          [N]T,
 	num_items_used: int,
 }
 
@@ -37,12 +37,12 @@ make_slice :: proc($T: typeid/[]$E, len: int) -> T {
 	return make(T, len)
 }
 
-main::proc(){
-    // clamp proc can be used for any numeric type
-    fmt.println(clamp(1,2,3))
-    fmt.println(clamp(1.0,2.0,3.0))
+main :: proc() {
+	// clamp proc can be used for any numeric type
+	fmt.println(clamp(1, 2, 3))
+	fmt.println(clamp(1.0, 2.0, 3.0))
 
-    my_slice := make_random_sized_slice(f32, 1000)
+	my_slice := make_random_sized_slice(f32, 1000)
 
-    array: Special_Array(f64, 128)
+	array: Special_Array(f64, 128)
 }
