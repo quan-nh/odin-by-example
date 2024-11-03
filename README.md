@@ -29,6 +29,7 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Sorting by Functions](sorting-by-functions.odin)
 - [Panic](panic.odin)
 - [Defer](defer.odin)
+- [Implicit context](implicit-context.odin)
 - [Memory Allocator](memory-allocator.odin)
 - [Temporary Allocator](temp-allocator.odin)
 - [Arena Allocator](arena-allocator.odin)
