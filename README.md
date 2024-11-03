@@ -47,3 +47,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Reading Files](reading-files.odin)
 - [Writing Files](writing-files.odin)
 - [Line Filters](line-filters.odin)
+- [File Paths](file-paths.odin)
