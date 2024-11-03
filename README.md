@@ -45,3 +45,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Number Parsing](number-parsing.odin)
 - [Base64 Encoding](base64-encoding.odin)
 - [Reading Files](reading-files.odin)
+- [Writing Files](writing-files.odin)
