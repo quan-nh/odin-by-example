@@ -41,3 +41,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Time](time.odin)
 - [Epoch](epoch.odin)
 - [Time Formatting Parsing](time-formatting-parsing.odin)
+- [Random Numbers](random-numbers.odin)
