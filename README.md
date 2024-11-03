@@ -43,3 +43,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Time Formatting Parsing](time-formatting-parsing.odin)
 - [Random Numbers](random-numbers.odin)
 - [Number Parsing](number-parsing.odin)
+- [Base64 Encoding](base64-encoding.odin)
