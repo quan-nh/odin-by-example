@@ -29,6 +29,7 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Sorting by Functions](sorting-by-functions.odin)
 - [Panic](panic.odin)
 - [Defer](defer.odin)
+- [Memory Allocation](memory-allocation.odin)
 - [String Functions](string-functions.odin)
 - [String Formatting](string-formatting.odin)
 - [Regular Expressions](regular-expressions.odin)
