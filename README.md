@@ -50,3 +50,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [File Paths](file-paths.odin)
 - [Directories](directories.odin)
 - [Testing](testing.odin)
+- [Command Line Arguments](command-line-arguments.odin)
