@@ -52,3 +52,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Testing](src/testing.odin)
 - [Command Line Arguments](src/command-line-arguments.odin)
 - [Command Line Flags](src/command-line-flags.odin)
+- [Envinronment Variables](src/environment-variables.odin)
