@@ -49,3 +49,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Line Filters](line-filters.odin)
 - [File Paths](file-paths.odin)
 - [Directories](directories.odin)
+- [Testing](testing.odin)
