@@ -48,3 +48,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Writing Files](writing-files.odin)
 - [Line Filters](line-filters.odin)
 - [File Paths](file-paths.odin)
+- [Directories](directories.odin)
