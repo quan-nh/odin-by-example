@@ -55,3 +55,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Envinronment Variables](src/environment-variables.odin)
 - [Logging](src/logging.odin)
 - [HTTP Client](src/http-client.odin)
+- [HTTP Server](src/http-server.odin)
