@@ -54,3 +54,4 @@ A port of [Go by Example](https://gobyexample.com/) to Odin.
 - [Command Line Flags](src/command-line-flags.odin)
 - [Envinronment Variables](src/environment-variables.odin)
 - [Logging](src/logging.odin)
+- [HTTP Client](src/http-client.odin)
